@@ -1,4 +1,4 @@
-#!/Users/Viktor/Documents/chatapp-socketio/env/bin/python
+#!/Users/Viktor/Documents/chat-app-socketio/env/bin/python
 
 import sys
 import getopt
